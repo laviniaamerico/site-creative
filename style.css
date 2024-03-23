@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: "Schoolbell", cursive;
+}
+
 .cabecalho{
     background-color: #ffabc6;
     color: beige;
